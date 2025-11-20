@@ -1,0 +1,23 @@
+.env
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# Python
+venv/
+.env
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker junk
+*.log
